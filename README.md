@@ -84,15 +84,25 @@ echo "The future doesn't wait. Neither do I."
 
 <!-- STATS SECTION - Professional -->
 
-📈 PERFORMANCE METRICS
+## 📈 **PERFORMANCE METRICS**
 
 <div align="center">
 
-https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anonymous-beta&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000)](https://github.com/anonymous-beta)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymous-beta&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000)](https://github.com/anonymous-beta)
 
 </div>
+## 🔥 **Featured Projects**
+
+| Project | Description | Tech Stack |
+| :------ | :---------- | :--------- |
+| **[Wifidaemon](https://github.com/anonymous-beta/Wifidaemon)** | Next-gen, modular Wi-Fi analysis suite built for safety & speed. | Rust, React, Makefile |
+| **[Brosint](https://github.com/anonymous-beta/Brosint)** | Advanced OSINT framework for ethical intelligence gathering. | Python |
+| **[NETSWAP](https://github.com/anonymous-beta/NETSWAP)** | Cyberpunk-powered, cross-platform file transfer tool. | Python |
+| **[MYSONINJA](https://github.com/anonymous-beta/MYSONINJA)** | Web-controlled red team platform with AI automation. | HTML |
+| **[WHOip](https://github.com/anonymous-beta/WHOip)** | Compact CLI for IP/domain reconnaissance. | Python |
+| **[LinkQR](https://github.com/anonymous-beta/LinkQR)** | Turn any link into a stunning neon QR code. | Python |
 
 <!-- CURRENT FOCUS - Engaging -->
 
@@ -172,7 +182,4 @@ FINGERPRINT: AB:CD:EF:12:34:56
 [STATUS] Online and dangerous...
 [WARNING] Future in progress...
 ```
-
-https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=red
-
 </div>
