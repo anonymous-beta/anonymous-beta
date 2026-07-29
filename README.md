@@ -1,75 +1,53 @@
-<!-- PROFILE HEADER - Most visible part -->
-<div align="center">
-  
-# 💀 **ANONYMOUS** 💀
-### *aka Brian • 17 • Ethical Hacker & Developer*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anonymous-beta/anonymous-beta/main/assets/profile.png" width="180" style="border-radius: 50%; border: 2px solid #00ff41; box-shadow: 0 0 20px #00ff41;" alt="ANONYMOUS-BETA" />
+</p>
 
-```ascii
-╔══════════════════════════════════════╗
-║  SYSTEM: ACTIVE                      ║
-║  USER: ANONYMOUS                      ║
-║  AGE: 17 // NEXT GEN INITIATED        ║
-║  STATUS: UPGRADING HUMAN.exe          ║
-╚══════════════════════════════════════╝
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=ANONYMOUS-BETA;aka+Brian;17+%7C+Ethical+Hacker+%7C+Developer;Next+Gen+Initiated" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-ONLINE-00ff41?style=flat-square&logo=statuspage&logoColor=black" />
+  <img src="https://img.shields.io/badge/Age-17-critical?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Red%20Team-ff0040?style=flat-square&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Undisclosed-000000?style=flat-square" />
+</p>
+
+---
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  > SYSTEM BREACH DETECTED                                    ║
+║  > USER: anonymous-beta                                      ║
+║  > CLEARANCE: BETA TESTER                                    ║
+║  > AGE: 17 // NEXT GEN PROTOCOL ACTIVE                       ║
+║  > STATUS: UPGRADING HUMAN.exe ... [████████░░] 87%          ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-</div>
-
-<!-- QUICK GLANCE SECTION - Easy to scan -->
-
-📊 SYSTEM OVERVIEW
+## 🧬 IDENTITY
 
 ```yaml
-identification:
-  codename: ANONYMOUS
-  legal_name: Brian
-  age: 17
-  classification: "Ethical Hacker | Developer"
-  
-mission_statement: |
-  "Out with the old, in with the new.
-   Time for the next generation to take over."
-   
+codename: ANONYMOUS-BETA
+legal_name: Brian
+age: 17
+classification: "Ethical Hacker | Developer | Red Team Operator"
+mission: "Out with the old, in with the new. Time for the next generation."
 current_phase: "THE EVOLUTION"
-projects_count: ∞ [classified]
+projects: ∞ [CLASSIFIED]
 ```
 
-<!-- SKILL MATRIX - Visual and impressive -->
+## ⚡ TECH ARSENAL
 
-⚙️ TECH STACK // CAPABILITIES
+| Domain | Skills | Proficiency |
+|--------|--------|-------------|
+| **Languages** | Python, JavaScript, C++, Bash, Assembly | ████████░░ |
+| **Offensive Security** | Web App Pentesting, Network Analysis, Reverse Engineering, Zero Day Research | ███████░░░ |
+| **Development** | Full Stack, Automation, Tool Building | █████████░ |
 
-<details>
-<summary>🔬 EXPAND FOR TECHNICAL SPECS</summary>
-<br>
+## 🚀 ACTIVE OPERATIONS
 
 ```
-LANGUAGES:
-├─ Python    [██████████░░]  Senior
-├─ JavaScript[████████░░░░]  Advanced
-├─ C++       [██████░░░░░░]  Intermediate
-├─ Bash      [████████░░░░]  Advanced
-└─ Assembly  [██████░░░░░░]  Learning
-
-SECURITY:
-├─ Web App Pentesting  [████████░░░░]
-├─ Network Analysis    [███████░░░░░]
-├─ Reverse Engineering [████████░░░░]
-└─ Zero Day Research   [███████░░░░░]
-
-DEVELOPMENT:
-├─ Full Stack    [██████████░░]
-├─ Automation    [██████████░░]
-└─ Tool Building [██████████░░]
-```
-
-</details>
-
-<!-- PROJECT SHOWCASE - Dynamic looking -->
-
-🚀 ACTIVE MISSIONS
-
-```bash
-# Current operations status
 $ ls -la /var/projects/
 
 drwxr-xr-x    legacy_pwnage/     # 47 repos [DEPRECATED]
@@ -82,21 +60,10 @@ $ cat .new_era.sh
 echo "The future doesn't wait. Neither do I."
 ```
 
-<!-- STATS SECTION - Professional -->
-
-## 📈 **PERFORMANCE METRICS**
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anonymous-beta&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000)](https://github.com/anonymous-beta)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymous-beta&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000)](https://github.com/anonymous-beta)
-
-</div>
-## 🔥 **Featured Projects**
+## 🔥 FEATURED PAYLOADS
 
 | Project | Description | Tech Stack |
-| :------ | :---------- | :--------- |
+|---------|-------------|------------|
 | **[Wifidaemon](https://github.com/anonymous-beta/Wifidaemon)** | Next-gen, modular Wi-Fi analysis suite built for safety & speed. | Rust, React, Makefile |
 | **[Brosint](https://github.com/anonymous-beta/Brosint)** | Advanced OSINT framework for ethical intelligence gathering. | Python |
 | **[NETSWAP](https://github.com/anonymous-beta/NETSWAP)** | Cyberpunk-powered, cross-platform file transfer tool. | Python |
@@ -104,9 +71,18 @@ echo "The future doesn't wait. Neither do I."
 | **[WHOip](https://github.com/anonymous-beta/WHOip)** | Compact CLI for IP/domain reconnaissance. | Python |
 | **[LinkQR](https://github.com/anonymous-beta/LinkQR)** | Turn any link into a stunning neon QR code. | Python |
 
-<!-- CURRENT FOCUS - Engaging -->
+## 📊 SYSTEM METRICS
 
-🎯 CURRENT OBJECTIVES
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anonymous-beta&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymous-beta&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff0040&currStreakLabel=00ff41" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonymous-beta&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Top Languages" />
+</p>
+
+## 🎯 OBJECTIVES
 
 ```javascript
 const nextGen = {
@@ -114,7 +90,7 @@ const nextGen = {
   mission: "Replace legacy systems",
   strategy: {
     phase1: "Learn from the old",
-    phase2: "Build the new",
+    phase2: "Build the new", 
     phase3: "🚀 DEPLOY"
   },
   mindset: "Growth is mandatory",
@@ -127,59 +103,25 @@ const nextGen = {
   }
 };
 
-// Initialized at birth
 nextGen.execute();
 ```
 
-<!-- WARNING/LABEL SECTION - Creates intrigue -->
+## 🔗 SECURE CHANNELS
 
-⚠️ CLASSIFIED DATA
+<p align="center">
+  <a href="mailto:anonym09g@gmail.com">
+    <img src="https://img.shields.io/badge/Email-anonym09g@gmail.com-00ff41?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anonymous-beta&color=00ff41&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+---
 ```
-┌─────────────────────────────────────┐
-│  ACCESS LEVEL: BETA TESTER          │
-│  STATUS: BUILDING THE FUTURE         │
-│  WARNING: May cause innovation       │
-│  NEXT CHECKPOINT: 18 YEARS OLD       │
-└─────────────────────────────────────┘
-```
-
-<!-- SOCIAL CONNECTION - Professional yet edgy -->
-
-🔗 SECURE CHANNELS
-
-<div align="center">
-
-https://img.shields.io/badge/Discord-ANONYMOUS%239999-red?style=for-the-badge&logo=discord&logoColor=white&labelColor=black&color=red
-https://img.shields.io/badge/Twitter-@ANONYMOUS-red?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black&color=red
-https://img.shields.io/badge/Email-anon@proton.me-red?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=black&color=red
-
-```
-ENCRYPTED CONNECTION ESTABLISHED
-PGP KEY: 0xDEADBEEF
-FINGERPRINT: AB:CD:EF:12:34:56
-```
-
-</div>
-
-<!-- FOOTER - Memorable -->
-
-💬 SYSTEM MESSAGE
-
-```diff
-+ The old guard is retiring.
-+ The next generation is HERE.
-- Age is just a number.
-! Skills are forever.
-```
-
-<div align="center">
-
 ⚡ 17 // BUILDING // HACKING // EVOLVING ⚡
-
-```
 [SYSTEM] Ready for next deployment...
 [STATUS] Online and dangerous...
 [WARNING] Future in progress...
 ```
-</div>
