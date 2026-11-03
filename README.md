@@ -215,6 +215,12 @@ nextGen.execute();
 ```
 
 <!-- Footer Wave -->
+<!-- Tiny Trademark -->
+<div align="center" style="margin-top: 20px; margin-bottom: 10px;">
+  <img src="de_builders_club.svg" width="70" alt="De Builder's Club" />
+  <br>
+  <sub style="color: #888; font-size: 11px;">© De Builder's Club</sub>
+</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=120&section=footer&text=&fontSize=0" width="100%" />
 
 </div>
